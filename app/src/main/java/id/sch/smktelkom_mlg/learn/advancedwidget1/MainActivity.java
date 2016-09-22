@@ -20,8 +20,6 @@ public class MainActivity extends AppCompatActivity {
         addEditText(llMain);
         Button bProses = new Button(this);
 
-
-        Button bProses = new Button(this);
         bProses.setText("Proses");
         llMain.addView(bProses);
         final TextView tvHasil = new TextView(this);
