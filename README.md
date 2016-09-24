@@ -1,7 +1,8 @@
 # Advanced Widget 1
 
 ScreenShot:
-
+<br><img src="https://github.com/LelakiTamvan/AdvancedWidget1/blob/master/aw1%201.PNG"/>
+<br><img src="https://github.com/LelakiTamvan/AdvancedWidget1/blob/master/aw1%202.PNG"/>
 
 
 <br>Nama          : Muhammad Sandro Duarsa
